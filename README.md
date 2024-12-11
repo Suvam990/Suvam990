@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and aplliction development
 - 🌱 I’m currently learning artificial intelligence/machine learning
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me suvamlama2@gmail.com
+- 📫 How to reach me subamlama13@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 
