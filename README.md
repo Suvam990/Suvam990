@@ -1,6 +1,6 @@
 👋 Hi, I’m @Suvam990
 🌐 Web & Application Developer
-🔧 I specialize in Python, Django, REST APIs, HTML, CSS, and Bootstrap
+🔧 I specialize in Python, Django, REST APIs, HTML, CSS, and Bootstrap,Tailwind CSS.
 🌱 Currently diving deeper into Django and API Development
 💻 Always open to collaborating on interesting projects involving Web Development and Software Engineering
 📫 Reach out to me at: subamlama13@gmail.com
